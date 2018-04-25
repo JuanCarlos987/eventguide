@@ -1,0 +1,7 @@
+ID de cliente de oauth 2.0 = EventGuide
+
+Origenes de JavaScrips autorizados: http://www.event-guide-198511.appspot.com
+
+URIs de redireccion autorizados: http://www.event-guide-198511.appspot.com/call2back
+
+CLient ID: 21718815798-ssg5c0osgto47r740t0vhd4odns92oc5.apps.googleusercontent.com
